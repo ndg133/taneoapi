@@ -1,5 +1,4 @@
-<!-- <?php header('Access-Control-Allow-Origin: *'); ?> -->
-<?php header('Access-Control-Allow-Origin: https://taneo.nc/'); ?>
+<?php header('Access-Control-Allow-Origin: *'); ?>
 
 <!DOCTYPE html>
 <html lang="fr">
